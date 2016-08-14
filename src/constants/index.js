@@ -9,4 +9,5 @@ export const JUMP_TO_ROUTE = '@App/Navigator/JUMP_TO_ROUTE';
 
 export const SCENES = {
   HOME: 'HOME',
+  SCENE_TWO: 'SCENE_TWO',
 };
